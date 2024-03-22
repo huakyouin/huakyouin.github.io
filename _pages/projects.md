@@ -2,6 +2,7 @@
 layout: archive
 title: "Projects"
 author_profile: true
+permalink: /projects/
 ---
 
 Here records the repository of my projects.
