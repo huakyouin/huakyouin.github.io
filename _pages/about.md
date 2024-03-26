@@ -7,5 +7,5 @@ redirect_from:
   - /about.html
 ---
 
-I am now a Ph.D. student at [School of Data Science](http://www.sds.fudan.edu.cn), Fudan University, advised by Professor [Siming Chen](http://simingchen.me/). Previously, I did my undergraduate also at [School of Data Science](http://www.sds.fudan.edu.cn), Fudan University. 
+I am now a Master student at [School of Data Science](http://www.sds.fudan.edu.cn), Fudan University, advised by Professor [Siming Chen](http://simingchen.me/). Previously, I did my undergraduate also at [School of Data Science](http://www.sds.fudan.edu.cn), Fudan University. 
 
